@@ -1,1 +1,3 @@
-Images for python notebooks
+
+Images for week 1 of the class ipython notebook
+
