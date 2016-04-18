@@ -1,1 +1,3 @@
-# contains images for jupyter notebooks
+
+Images for week 1 of the class ipython notebook
+
