@@ -1,4 +1,4 @@
-Files for the talk "Mathematical Optimization for Machine Learning" given by Jeremy Watt and Reza Borhani
+Files for the talk "Gradient Descent: the Workhorse (Algorithm) of Machine Learning" 
 
 Included here:
 
