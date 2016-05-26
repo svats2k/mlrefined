@@ -1,4 +1,4 @@
-Files for the talk "Gradient Descent: the Workhorse (Algorithm) of Machine Learning" 
+Files for the talk "Gradient Descent: the Workhorse (Algorithm) of Machine Learning" given on 5/26/2016 at Metis Data Science Meetup Chicago
 
 Included here:
 
